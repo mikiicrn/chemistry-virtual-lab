@@ -1,0 +1,55 @@
+Aparatură şi substanţe: 
+
+
+    Aparatură: electrozi de Fe, Cu, Zn, Al şi electrodul de referinţă  Ag/AgCl, voltmetru; 
+    Substanţe: medii corozive (acid, neutru şi alcalin) 
+
+
+Modul de lucru:
+
+    • plăcuţele (electrozii) de Zn, Fe, Al, Cu se curăţă cu hârtie de şmirghel înaintea fiecărei 
+măsurători; 
+
+    • se alcătuiesc următoarele pile galvanice de coroziune:  
+
+        Fe/mediu coroziv//electrod de referinţă 
+        Fe+M /mediu coroziv//electrod de referinţă 
+
+unde: M - Zn, Fe, Al, Cu, iar mediul coroziv - NaCl 1%, NaOH 0,1N, H2SO4 0,1N 
+Pilele galvanice de mai sus se realizează introducând electrodul de Fe şi electrodul de 
+referinţă în vasul conţinând soluţia corozivă. Electrozii pilei electrice se leagă la bornele 
+aparatului de măsură, astfel încât t.e.m. să fie pozitivă. 
+
+
+    Pași Experimentali
+
+Urmați acești pași pentru a realiza experimentul virtual:
+
+    1. Pregătirea Materialelor
+- Asigurați-vă că aveți toate materialele virtuale pe ecran: plăcuțe metalice (Fe, Cu, Zn, Al), soluții (NaOH, H2SO4, NaCl), voltmetru, electrod de referință, etc.
+- **Important:** Folosiți butonul "Șmirgheluire" pentru a curăța *toate* plăcuțele metalice la începutul experimentului și *după* fiecare schimbare a mediului coroziv sau utilizare a unei plăcuțe.
+
+    2. Selectarea Mediului Coroziv
+- Alegeți unul dintre mediile corozive (NaOH, H2SO4, NaCl) apăsând butonul corespunzător. Soluția va fi adăugată virtual în paharul Berzelius.
+
+    3. Măsurarea Potențialului pentru Fier (Fe)
+- Selectați Fierul (Fe) ca *Primul metal* apăsând butonul "FE".
+- Asigurați-vă că nu este selectat un al doilea metal.
+- Apăsați butonul "Calculează" pentru a măsura și înregistra potențialul fierului în mediul ales. Notați valoarea.
+
+    4. Măsurarea Potențialului pentru Cuplul Fe + X
+- Păstrați Fierul (Fe) selectat ca *Primul metal*.
+- Selectați unul dintre celelalte metale (Cu, Zn sau Al) ca *Al doilea metal* apăsând butonul corespunzător (CU, ZN, AL).
+- Apăsați butonul "Calculează". Voltmetrul va afișa tensiunea dintre metalul X și electrodul de referință. Sistemul va determina dacă metalul X acționează ca anod de sacrificiu pentru Fe.
+- Datele (Fe, X, Mediu, Tensiune) vor fi adăugate în tabel.
+- **Curățare:** Nu uitați să curățați plăcuța X după utilizare folosind butoanele "Curăță X".
+
+    5. Repetarea Măsurătorilor
+- Resetați selecția celui de-al doilea metal folosind butonul "Resetează" sau curățând plăcuța respectivă.
+- Repetați pasul 4 pentru celelalte metale (Cu, Zn, Al).
+- Pentru a schimba mediul coroziv, *asigurați-vă că toate plăcuțele folosite au fost curățate*, apoi selectați noul mediu (pasul 2) și repetați pașii 3 și 4.
+
+    6. Analiza Rezultatelor
+- Vizualizați datele colectate apăsând butonul "Afișează Tabel".
+- Exportați datele într-un fișier CSV folosind butonul "Exportă" din fereastra tabelului.
+- Analizați care metale (Zn, Al, Cu) au acționat ca anozi de sacrificiu pentru fier în diferitele medii.

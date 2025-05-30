@@ -1,0 +1,26 @@
+Principiul lucrării: 
+
+
+    Protecţia catodică cu anozi de sacrificiu este o metodă de protecţie (electrochimică) 
+împotriva coroziunii ce se aplică construcţiilor metalice în contact cu solul, apa marilor, sau 
+atmosfera (conducte de oţel pentru transportul fluidelor, stâlpi metalici de susţinere, 
+rezervoarele, cazanele, coloanele de extracţie, cablurile etc.). Protecţia catodică constă în 
+modificarea potenţialului de coroziune al sistemului metalic de protejat spre valori atât de 
+negative, încât coroziunea să nu mai poată avea loc.  
+
+    Protecţia catodică cu anozi de sacrificiu se realizează practic prin fixarea pe suprafaţa 
+metalică de protejat a unor bare, plăci, benzi metalice speciale, denumite anozi de sacrificiu, 
+sau anozi solubili, sau anozi activi. Anozii de sacrificiu sunt alcătuiţi dintr-un metal sau aliaj cu 
+potenţial de coroziune în mediul dat mai negativ decât al metalului de protejat. De exemplu, 
+pentu protecţia sistemelor pe bază de Fe se folosesc Zn, Al, Mg şi aliajele lor.  
+
+
+
+Scopul lucrării: 
+
+
+    În  lucrarea experimentală se vor măsura cu un voltmetru electronic 
+tensiunile electromotoare (t.e.m.) ale fierului neprotejat şi ale  Zn, Al, Cu suprapuse pe rând pe 
+fier faţă de electrodul de referinţă Ag/AgCl. Comparând semnele şi valorile potenţialului de 
+electrod al fierului şi al fierului legat cu Zn, Al şi Cu faţă de electrodul de referinţă se va pune 
+în evidenţă ce metale pot fi utilizate ca anozi de sacrificiu. 
